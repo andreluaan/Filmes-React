@@ -1,23 +1,28 @@
-<div align="center">
+# 🎞️ Filmes React
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/enso-dark.svg"><img src="assets/enso-light.svg" alt="André Luan, desenvolvedor fullstack, ao lado de um ensō" width="100%"></picture>
+Catálogo de filmes feito com Next.js e React. O projeto está no começo: a estrutura base já está pronta e as telas estão em desenvolvimento.
 
-</div>
+## Tecnologias
 
-<div align="center">
+- [Next.js 16](https://nextjs.org) (App Router)
+- React 19
+- TypeScript
+- Tailwind CSS 4
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ficha-dark.svg"><img src="assets/ficha-light.svg" alt="Ficha: André Luan Bernardo, 22 anos, Paraíba, Ciência da Computação na UEPB" width="100%"></picture>
+## Como rodar
 
-</div>
+```bash
+npm install
+npm run dev
+```
 
-<div align="center">
+Abra [http://localhost:3000](http://localhost:3000).
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/inventario-dark.svg"><img src="assets/inventario-light.svg" alt="Inventário: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, PHP, Laravel, Python, Git" width="100%"></picture>
+## Scripts
 
-</div>
-
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="Estatísticas do GitHub: contribuições, sequências e línguas mais usadas" width="100%"></picture>
-
-</div>
+| Comando | O que faz |
+|---|---|
+| `npm run dev` | servidor de desenvolvimento |
+| `npm run build` | build de produção |
+| `npm start` | sobe o build |
+| `npm run lint` | roda o ESLint |
