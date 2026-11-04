@@ -18,17 +18,7 @@
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/personagens-dark.svg"><img src="assets/personagens-light.svg" alt="Borrão, Mel e Dengon" width="100%"></picture>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/andreluaan/Portifolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-portifolio-dark.svg"><img src="assets/card-portifolio-light.svg" alt="Portifolio" width="49%"></picture></a>
-<a href="https://github.com/andreluaan/Sumi-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sumi-system-dark.svg"><img src="assets/card-sumi-system-light.svg" alt="Sumi-System" width="49%"></picture></a>
-
-<a href="https://github.com/andreluaan/Jokenpo-da-saideira"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-jokenpo-dark.svg"><img src="assets/card-jokenpo-light.svg" alt="Jokenpo-da-saideira" width="49%"></picture></a>
-<a href="https://github.com/andreluaan/MovieTrack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-movietrack-dark.svg"><img src="assets/card-movietrack-light.svg" alt="MovieTrack" width="49%"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="Estatísticas do GitHub: contribuições, sequências e línguas mais usadas" width="100%"></picture>
 
 </div>
 
