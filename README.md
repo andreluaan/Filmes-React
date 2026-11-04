@@ -1,28 +1,29 @@
-# 🎞️ Filmes React
+<div align="center">
 
-Catálogo de filmes feito com Next.js e React. O projeto está no começo: a estrutura base já está pronta e as telas estão em desenvolvimento.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/enso-dark.svg"><img src="assets/enso-light.svg" alt="André Luan — ensō pintado com o Borrão" width="100%"></picture>
 
-## Tecnologias
+</div>
 
-- [Next.js 16](https://nextjs.org) (App Router)
-- React 19
-- TypeScript
-- Tailwind CSS 4
+<p align="center"><em>Olá! Sou o André, dev front-end que pinta interfaces com código. Tinta, papel e um pouquinho de bagunça.</em></p>
 
-## Como rodar
+<div align="center">
 
-```bash
-npm install
-npm run dev
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/personagens-dark.svg"><img src="assets/personagens-light.svg" alt="Borrão, Mel e Dengon" width="100%"></picture>
 
-Abra [http://localhost:3000](http://localhost:3000).
+</div>
 
-## Scripts
+<div align="center">
 
-| Comando | O que faz |
-|---|---|
-| `npm run dev` | servidor de desenvolvimento |
-| `npm run build` | build de produção |
-| `npm start` | sobe o build |
-| `npm run lint` | roda o ESLint |
+<a href="https://github.com/andreluaan/Portifolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-portifolio-dark.svg"><img src="assets/card-portifolio-light.svg" alt="Portifolio" width="49%"></picture></a>
+<a href="https://github.com/andreluaan/Sumi-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sumi-system-dark.svg"><img src="assets/card-sumi-system-light.svg" alt="Sumi-System" width="49%"></picture></a>
+
+<a href="https://github.com/andreluaan/Jokenpo-da-saideira"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-jokenpo-dark.svg"><img src="assets/card-jokenpo-light.svg" alt="Jokenpo-da-saideira" width="49%"></picture></a>
+<a href="https://github.com/andreluaan/MovieTrack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-movietrack-dark.svg"><img src="assets/card-movietrack-light.svg" alt="MovieTrack" width="49%"></picture></a>
+
+</div>
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rodape-dark.svg"><img src="assets/rodape-light.svg" alt="Rodapé com o Borrão" width="100%"></picture>
+
+</div>
